@@ -16,7 +16,7 @@ class Solution {
                 res[0]=map.get(target-nums[i]);
                 return res;
             }
-            //return res;
+            
         }
         return new int[0];
     }
